@@ -1,8 +1,21 @@
+ feature/enhancement
 hello i am nishit
 conflict
 hi
-<<<<<<< HEAD
+ HEAD
 doing conflict
-=======
+feature/dependencies
+
 doing conflict
->>>>>>> feature/enhancement
+feature/enhancement
+
+
+ mini
+hi
+i am nishit doshi
+
+hello i am nishit
+conflict
+ main
+ main
+main
