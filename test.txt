@@ -1,2 +1,7 @@
+ mini
 hi
 i am nishit doshi
+
+hello i am nishit
+conflict
+ main
