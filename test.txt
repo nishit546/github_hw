@@ -1,4 +1,8 @@
 hello i am nishit
 conflict
 hi
+<<<<<<< HEAD
 doing conflict
+=======
+doing conflict
+>>>>>>> feature/enhancement
