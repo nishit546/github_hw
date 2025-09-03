@@ -2,7 +2,13 @@
 hello i am nishit
 conflict
 hi
+ HEAD
 doing conflict
+feature/dependencies
+
+doing conflict
+feature/enhancement
+
 
  mini
 hi
@@ -12,3 +18,4 @@ hello i am nishit
 conflict
  main
  main
+main
